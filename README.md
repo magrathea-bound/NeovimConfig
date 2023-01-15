@@ -1,8 +1,10 @@
 Overview
+
 My Neovim config, still a work in progress.
 Trying to minimize features added
 
 Plugins
+
 Plugin Manager - Packer
 
 Plugins Installed
