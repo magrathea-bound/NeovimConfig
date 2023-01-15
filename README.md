@@ -1,9 +1,9 @@
-Overview
+**Overview**
 
 My Neovim config, still a work in progress.
 Trying to minimize features added
 
-Plugins
+**Plugins**
 
 Plugin Manager - Packer
 
