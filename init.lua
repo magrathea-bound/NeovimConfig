@@ -5,6 +5,7 @@ require "user.options"
 require "user.plugins"
 require "user.nvim-tree"
 require "user.bufferline"
+require "user.toggleterm"
 vim.cmd [[colorscheme gruvbox]]
 
 --[[

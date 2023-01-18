@@ -54,6 +54,9 @@ return packer.startup(function(use)
   }
   use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
   use "moll/vim-bbye"
+  use {"akinsho/toggleterm.nvim", tag = '*', config = function()
+    require("toggleterm").setup()
+end}
   --Ease of life
   --Autocompletion
   use {"neoclide/coc.nvim", branch = 'release'}
