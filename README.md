@@ -1,8 +1,8 @@
-#Overview
+# Overview
 
 My Neovim config, still a work in progress.
 
-##Plugins
+## Plugins
 
 Plugin Manager - Packer
 
