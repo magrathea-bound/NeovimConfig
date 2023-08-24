@@ -1,6 +1,7 @@
 # Overview
 
-My Neovim config, still a work in progress.
+My Neovim config, still a work in progress.  
+Shout out to chris@machine on youtube for walking me through this.
 
 ## Plugins
 
