@@ -1,6 +1,5 @@
 # Overview
-
-My Neovim config, still a work in progress.  
+There are still some things to iron out but this project has mostly been archived due to using Jupyter Labs.  
 Shout out to chris@machine on youtube for walking me through this.
 
 ## Plugins
